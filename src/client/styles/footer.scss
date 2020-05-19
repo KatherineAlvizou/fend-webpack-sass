@@ -1,0 +1,10 @@
+$footer-color: rgb(31, 34, 34);
+$font-color: rgb(248, 248, 227);
+
+
+footer p{
+    background: $footer-color;
+    color: $font-color;
+    text-align: center;
+    font-size: 16px;
+}
